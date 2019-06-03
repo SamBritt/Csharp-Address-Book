@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/Address/bin/Debug/netcoreapp2.2/Address.deps.json
+/Users/sambritt/workspace/csharp/exercises/Address/bin/Debug/netcoreapp2.2/Address.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/Address/bin/Debug/netcoreapp2.2/Address.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/Address/bin/Debug/netcoreapp2.2/Address.dll
+/Users/sambritt/workspace/csharp/exercises/Address/bin/Debug/netcoreapp2.2/Address.pdb
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.dll
+/Users/sambritt/workspace/csharp/exercises/Address/obj/Debug/netcoreapp2.2/Address.pdb
